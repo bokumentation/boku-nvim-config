@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# My NeoVim Config based on 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Supports:
+- clangd (i dont use mason)
+- cmake
+- modified dashboard
+- etc.
+
+Refer to the LazyVim [documentation](https://lazyvim.github.io/installation) to get started.
